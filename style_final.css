@@ -141,3 +141,7 @@ footer {
   background-color: #2d252d;
   width: 100%;
 }
+
+.greeting {
+  text-align: center;
+}
